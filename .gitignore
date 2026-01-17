@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+
+data/
+
+# Virtual environments
+proj/
+venv/
+env/
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Binaries
+*.dll
+*.pyd
+
+# ML artifacts
+*.npy
+*.h5
+*.tflite
+
+# Virtual environments
+proj/
+venv/
+env/
+.venv/
+
+# Windows
+*.dll
+*.pyd
+
+# Media / model artifacts
+*.npy
+*.h5
+*.tflite
+
+proj/
+data/
+dataDing/
+check_npy.py
+data.zip
+dataEarlier.zip
+extract_pose.py
+notebookb964513c82.ipynb
+realProj/
+website/backend/node_modules/
