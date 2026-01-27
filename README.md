@@ -1,4 +1,4 @@
-# The Social Skill Developer  
+# PrepAI
 ### AI-Powered Interview Simulator
 
 An adaptive AI system that simulates real interview environments by analyzing **what you say** and **how you say it**, providing objective feedback on both **knowledge** and **confidence**.
